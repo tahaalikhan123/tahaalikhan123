@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahaalikhan123" alt="tahaalikhan123" /></a> </p>
 
-- 🔭 I’m currently working on [a tax calculator](https://github.com/tahaalikhan123/Taxcalcpy)
+- 🔭 I’m currently working on [a spam detection model]([https://github.com/tahaalikhan123/Taxcalcpy](https://github.com/tahaalikhan123/Spam-Email-Detection-With-Tensorflow-And-Python-Dependancies))
 
 - 🌱 I’m currently learning **Pandas, Jupyter, R, Tableau and PowerBI**
 
 - 👯 I’m looking to collaborate on [a data visualization project](Soon tba)
 
-- 🤝 I’m looking for help with [my portflolio](https://github.com/tahaalikhan123/Portfolio)
+- 🤝 I’m looking for help with [learning new modelling methods]("Coming soon")
 
 - 👨‍💻 All of my projects are available at [Portfolio upcoming soon](Portfolio upcoming soon)
 
