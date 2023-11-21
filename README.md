@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [a data visualization project](Soon tba)
 
-- 🤝 I’m looking for help with [learning new modelling methods]("Coming soon")
+- 🤝 I’m looking for help with [learning new modelling methods](Coming soon)
 
 - 👨‍💻 All of my projects are available at [Portfolio upcoming soon](Portfolio upcoming soon)
 
