@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Taha Ali Khan</h1>
-<h3 align="center">"Currently a data analyst working on my way top to science or governance"</h3>
+<h1 align="center">Hi 👋, I'm Taha </h1>
+<h3 align="center">"Data Analyst > Data Engineer > Data Science"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahaalikhan123&label=Profile%20views&color=0e75b6&style=flat" alt="tahaalikhan123" /> </p>
 
